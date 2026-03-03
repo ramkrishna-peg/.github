@@ -5,8 +5,7 @@
 
 ###  GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramkrishna-peg)](https://git.io/streak-stats)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ramkrishna-peg&theme=radical)
 ---
 
 ###  Backend Tech Stack
