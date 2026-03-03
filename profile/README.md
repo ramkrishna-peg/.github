@@ -5,7 +5,7 @@
 
 ###  GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ramkrishna-peg&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramkrishna-peg)](https://git.io/streak-stats)
 
 ---
 
